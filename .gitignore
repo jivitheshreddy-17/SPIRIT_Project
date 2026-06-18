@@ -1,0 +1,11 @@
+spirit_env/
+venv/
+.venv/
+.env
+__pycache__/
+*.pyc
+temp_voice.wav
+memory_audio.wav
+screenshot.png
+.vscode/
+.idea/
